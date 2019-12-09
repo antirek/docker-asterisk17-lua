@@ -1,0 +1,1 @@
+# docker-asterisk17-lua
