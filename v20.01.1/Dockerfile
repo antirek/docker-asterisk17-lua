@@ -119,8 +119,8 @@ RUN luarocks install luasocket 3.0rc1 && \
     luarocks install httpclient 0.1.0 && \
     luarocks install lualogging 1.3.0 && \
     luarocks install luchia 1.1.2 && \
-    luarocks install statsd 3.0.2
-
+    luarocks install statsd 3.0.2 && \
+    luarocks install ohm 0.1.1-1
 
 ## g729
 
